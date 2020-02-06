@@ -5,12 +5,12 @@
 
 ####################          Settings [Feel free to modify this]          ####################
 
-jigFirstAndLast = False #or True
+jigFirstAndLast = True #or False
 jigFirst = False #or True
-jigPhone = True #or False
-jigSecondLineAddress = True #or False
+jigPhone = False #or True
+jigSecondLineAddress = False #or True
 
-jigFirstLineAddress = True #or False IF YOU SET THIS TO FALSE, YOU ARE VERY LIKELY TO GET THIS ERROR: 'Not possible to register {email}. Maybe you have already registered?'
+jigFirstLineAddress = False #or False IF YOU SET THIS TO FALSE, YOU ARE VERY LIKELY TO GET THIS ERROR: 'Not possible to register {email}. Maybe you have already registered?'
 
 
 ####################          Importing necessary libraries          ####################
